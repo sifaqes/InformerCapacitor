@@ -1,0 +1,7 @@
+{
+  "name": "InformerCapacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
